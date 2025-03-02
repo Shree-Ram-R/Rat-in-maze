@@ -20,10 +20,12 @@ Run the program with a maze as input (as a 2D matrix).
 The solution will print all the valid paths or show that no path exists.
 Usage Example:
 
-maze = [[1, 0, 0, 0],
-        [1, 1, 0, 1],
-        [0, 1, 0, 0],
-        [1, 1, 1, 1]]
+maze = {
+	 {1, 1, 0},
+	 {1, 0, 9},
+	 {1, 1, 1}
+      };
+        
 
 // Function call to solve the maze
 Maze(maze)
