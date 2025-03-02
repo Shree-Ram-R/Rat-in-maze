@@ -34,5 +34,5 @@ Problem Solving: Backtracking, Recursion
 ### Output 
 ![image](https://github.com/user-attachments/assets/00f636a1-1600-4052-bcdc-a6bd578de0ed)
 
-
+### Conclusion:
 This README description provides a brief overview of the Rat in a Maze problem, explains the algorithm used, and includes instructions for running the program. It’s designed to be easy to understand for anyone browsing your GitHub repository.
